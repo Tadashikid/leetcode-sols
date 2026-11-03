@@ -1,4 +1,4 @@
-class Solution:
+'''class Solution:
     def majorityElement(self, nums: list[int]) -> int:
         count=0
         carr={}
@@ -12,4 +12,21 @@ class Solution:
 
         for k,v in carr.items():
             if v>h:
-                return k
+                return k '''
+
+class Solution:
+    def majorityElement(self, nums: list[int]) -> int:
+        cand=None
+        count=0
+
+        for i in nums:
+            if count==0:
+                cand=i
+            
+            if i==cand:
+                count+=1
+
+            else:
+                count-=1
+
+        return cand

@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Tadashikid/leetcode-sols/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/Tadashikid/leetcode-sols/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Tadashikid/leetcode-sols/tree/master/0169-majority-element) |
 ## Bit Manipulation
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Tadashikid/leetcode-sols/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Tadashikid/leetcode-sols/tree/master/0169-majority-element) |
 ## Counting
 |  |
@@ -41,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Tadashikid/leetcode-sols/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/Tadashikid/leetcode-sols/tree/master/0141-linked-list-cycle) |
 | [0876-middle-of-the-linked-list](https://github.com/Tadashikid/leetcode-sols/tree/master/0876-middle-of-the-linked-list) |
 ## Recursion
@@ -52,4 +55,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Tadashikid/leetcode-sols/tree/master/0141-linked-list-cycle) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Tadashikid/leetcode-sols/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Tadashikid/leetcode-sols/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
